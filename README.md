@@ -7,12 +7,12 @@
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 - Python, Linux, SQL  
 - SIEM Tools, IDS (Snort/Zeek), Packet Sniffing  
 - Network Security, NIST Cybersecurity Framework
 
-## 📁 Featured Projects
+##  Featured Projects
 - [Cybersecurity Labs](https://github.com/Benemanuel05/cybersecurity-labs)  
 - [Python for Security](https://github.com/Benemanuel05/python-for-security)  
 - [Resume + Links](https://github.com/Benemanuel05/resume-and-links)
