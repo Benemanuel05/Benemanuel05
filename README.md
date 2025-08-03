@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ben Emanuel
+#  Hi, I’m Ben Emanuel
 
 🎓 Cybersecurity + Data Analytics Student @ Virginia Tech  
 🔐 Learning SIEM, IDS, network forensics, and Python automation  
